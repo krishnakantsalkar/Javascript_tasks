@@ -1,4 +1,4 @@
-let numMonths= 3;
+let numMonths= 14;
 let message="null"
 
 switch(numMonths){
